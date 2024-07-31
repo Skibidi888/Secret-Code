@@ -1,0 +1,3 @@
+# ถอดรหัวด้วยคีย์เวิด JWT 
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtYXNzYWdlIjoiKOC4hOC4s-C5g-C4muC5ieC4leC4o-C4h-C4meC4teC5iSkgLSDguIrguLfguYjguK3guJ7guLXguYjguKHguLXguJ_guK3guJ_guLHguJkiLCJpYXQiOjE3MjI0MTk3NTAsImV4cCI6MTcyMzAyNDU1MH0.XI7izGEAgtgFwROzPDq1sScvEvySivNYxii1dqNHhZM
